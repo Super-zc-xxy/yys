@@ -1,0 +1,44 @@
+{
+  "id": "2433355",
+  "name": "毕业设计",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "98490",
+      "name": "播放",
+      "font_class": "weibiaoti1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "10056216",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "186361",
+      "name": "易信",
+      "font_class": "yixin",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "670194",
+      "name": "YDUI-新浪微博",
+      "font_class": "yduixinlangweibo",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "19614448",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
